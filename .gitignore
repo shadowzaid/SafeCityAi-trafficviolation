@@ -1,0 +1,17 @@
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.mypy_cache/
+node_modules/
+dist/
+.env
+.env.local
+backend/storage/
+training/yolov5/
+training/runs/
+weights/*.pt
+!weights/README.md
+*.onnx
+*.torchscript
+.DS_Store

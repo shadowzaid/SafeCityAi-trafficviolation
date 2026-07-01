@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720">
+  <rect width="1280" height="720" fill="#0c111d"/>
+  <text x="70" y="90" fill="#fff" font-family="Arial" font-size="42" font-weight="700">SafeCityAI Demo Storyboard</text>
+  <g fill="#101828" stroke="#20d3ee" stroke-width="2">
+    <rect x="70" y="150" width="330" height="190" rx="16"/>
+    <rect x="475" y="150" width="330" height="190" rx="16"/>
+    <rect x="880" y="150" width="330" height="190" rx="16"/>
+    <rect x="270" y="420" width="330" height="190" rx="16"/>
+    <rect x="680" y="420" width="330" height="190" rx="16"/>
+  </g>
+  <g fill="#fff" font-family="Arial" font-size="26" font-weight="700">
+    <text x="118" y="250">1. Landing</text>
+    <text x="520" y="250">2. Dashboard</text>
+    <text x="925" y="250">3. Image Detection</text>
+    <text x="315" y="520">4. Video/Webcam</text>
+    <text x="728" y="520">5. Swagger + Metrics</text>
+  </g>
+</svg>

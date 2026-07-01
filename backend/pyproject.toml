@@ -1,0 +1,13 @@
+[project]
+name = "safecityai-backend"
+version = "1.0.0"
+description = "SafeCityAI YOLOv5 traffic violation detection backend"
+authors = [{ name = "Mohammed Zaid Nayaz" }]
+requires-python = ">=3.11"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+
+[tool.ruff]
+line-length = 100

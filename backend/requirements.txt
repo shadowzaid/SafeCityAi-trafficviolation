@@ -1,0 +1,16 @@
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+python-multipart==0.0.20
+slowapi==0.1.9
+opencv-python-headless==4.10.0.84
+torch>=2.2.0
+torchvision>=0.17.0
+pillow==11.1.0
+numpy==1.26.4
+pandas>=2.2.3
+matplotlib>=3.9.2
+seaborn>=0.13.2
+scikit-learn>=1.5.2
+tensorboard>=2.18.0
+pytest==8.3.4
+httpx==0.28.1

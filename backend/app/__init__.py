@@ -1,0 +1,1 @@
+"""SafeCityAI FastAPI application package."""

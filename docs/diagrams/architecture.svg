@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="620" viewBox="0 0 1100 620">
+  <rect width="1100" height="620" fill="#0c111d"/>
+  <text x="50" y="70" fill="#ffffff" font-family="Arial" font-size="34" font-weight="700">SafeCityAI Architecture</text>
+  <g fill="#101828" stroke="#20d3ee" stroke-width="2">
+    <rect x="55" y="130" width="210" height="100" rx="14"/>
+    <rect x="330" y="130" width="210" height="100" rx="14"/>
+    <rect x="605" y="130" width="210" height="100" rx="14"/>
+    <rect x="880" y="130" width="170" height="100" rx="14"/>
+    <rect x="330" y="360" width="210" height="100" rx="14"/>
+    <rect x="605" y="360" width="210" height="100" rx="14"/>
+  </g>
+  <g fill="#ffffff" font-family="Arial" font-size="20" font-weight="700">
+    <text x="95" y="186">React Dashboard</text>
+    <text x="388" y="186">FastAPI</text>
+    <text x="660" y="186">YOLOv5</text>
+    <text x="917" y="186">Results</text>
+    <text x="385" y="416">Dataset</text>
+    <text x="653" y="416">Training</text>
+  </g>
+  <g stroke="#32d583" stroke-width="4" fill="none" marker-end="url(#arrow)">
+    <path d="M265 180 H330"/>
+    <path d="M540 180 H605"/>
+    <path d="M815 180 H880"/>
+    <path d="M540 410 H605"/>
+    <path d="M710 360 V230"/>
+  </g>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L0,6 L9,3 z" fill="#32d583"/>
+    </marker>
+  </defs>
+</svg>

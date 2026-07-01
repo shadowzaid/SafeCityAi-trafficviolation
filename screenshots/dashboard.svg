@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+  <rect width="1440" height="900" fill="#f6f8fb"/>
+  <rect x="0" y="0" width="1440" height="84" fill="#ffffff"/>
+  <text x="70" y="53" fill="#101828" font-family="Arial" font-size="28" font-weight="800">SafeCityAI Dashboard</text>
+  <text x="70" y="170" fill="#20a9c2" font-family="Arial" font-size="18" font-weight="800">MISSION CONTROL</text>
+  <text x="70" y="225" fill="#101828" font-family="Arial" font-size="48" font-weight="800">Operational AI dashboard</text>
+  <g fill="#ffffff" stroke="#e5e7eb">
+    <rect x="70" y="300" width="380" height="190" rx="20"/>
+    <rect x="530" y="300" width="380" height="190" rx="20"/>
+    <rect x="990" y="300" width="380" height="190" rx="20"/>
+    <rect x="70" y="565" width="300" height="150" rx="20"/>
+    <rect x="410" y="565" width="300" height="150" rx="20"/>
+    <rect x="750" y="565" width="300" height="150" rx="20"/>
+    <rect x="1090" y="565" width="280" height="150" rx="20"/>
+  </g>
+  <g fill="#101828" font-family="Arial" font-weight="800">
+    <text x="110" y="380" font-size="30">Image Detection</text>
+    <text x="570" y="380" font-size="30">Video Detection</text>
+    <text x="1030" y="380" font-size="30">Live Webcam</text>
+    <text x="110" y="650" font-size="42">0</text>
+    <text x="450" y="650" font-size="42">0</text>
+    <text x="790" y="650" font-size="42">0</text>
+    <text x="1130" y="650" font-size="42">0 ms</text>
+  </g>
+  <g fill="#667085" font-family="Arial" font-size="18">
+    <text x="110" y="425">Annotated image evidence</text>
+    <text x="570" y="425">Processed violation clips</text>
+    <text x="1030" y="425">Realtime frame capture</text>
+    <text x="110" y="690">Requests</text>
+    <text x="450" y="690">Images</text>
+    <text x="790" y="690">Videos</text>
+    <text x="1130" y="690">Average latency</text>
+  </g>
+</svg>
